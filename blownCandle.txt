@@ -1,0 +1,12 @@
+Çocuk Doðum günü pastasýndaki mumlar:
+
+Doðum günü pastasýnda kutlanan yaþ kadar mum sayýsý vardýr. Kural þu þekilde:
+Doðum günü çocuðu sadece en yüksek mumlarý söndürebilmektedir.
+Örneðin çocuk 4 yaþýnda ise
+mumlarýn boyutlarý 3 2 1 3 santim ise Sadece 2 tane söndürebilir.
+Programýn Random 10 tane yaþ seçecek.
+Her yaþ için Random olarak mum boylarý atanacak.
+Class metot sonucu : Kaç tane söndürebilir o yazýlacak.
+
+--> Python dilinde yazýlmýþtýr. Mum sayýsý ve yaþ birbirine eþittir. Çocuk uygulamasý olduðu için yaþ
+maksimum 15 alýnmýþtýr.
